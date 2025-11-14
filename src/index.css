@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+* {
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+html, body {
+  height: 100%;
+}
+
+td {
+    background-color: rgb(45, 55, 72);
+    color: white;
+}
